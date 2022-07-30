@@ -1,0 +1,37 @@
+.content {
+    margin-top: 100px;
+    box-shadow: 0px -1px 19px 5px rgba(29,161,242,0.91);
+    max-width: 1000px;
+    min-height: 250px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content #text {
+    padding-top: 50px;
+}
+.content #author {
+    text-align: end;
+    margin-right: 35px;
+    margin-top: 40px;
+}
+.button-group{
+    display: flex;
+    width: 120px;
+    margin-left: auto;
+    margin-right: 300px;
+    margin-top:50px;
+
+}
+button{
+    border: none;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    margin-left: auto;
+    background-color:  rgba(29,161,242,0.91);
+}
+.retweet {
+    background-color: rgb(169, 169, 169);
+}
